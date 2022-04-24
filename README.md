@@ -7,7 +7,7 @@ I maintain several R packages, several of which are available on CRAN (https://c
 ### R Packages  
  - soilDB ([CRAN](https://cran.r-project.org/package=soilDB)) ([GitHub](http://ncss-tech.github.io/soilDB/))
  - SoilTaxonomy ([CRAN](https://cran.r-project.org/package=SoilTaxonomy)) ([GitHub](http://ncss-tech.github.io/SoilTaxonomy/))
- - whitebox ([CRAN](https://cran.r-project.org/package=whitebox)) ([GitHub](http://giswqs.github.io/whitebox/))
+ - whitebox ([CRAN](https://cran.r-project.org/package=whitebox)) ([GitHub](https://giswqs.github.io/whiteboxR/))
  - rosettaPTF ([GitHub](https://ncss-tech.github.io/rosettaPTF/))
  - jNSMR ([GitHub](https://ncss-tech.github.io/jNSMR))
  - rapr ([GitHub](https://humus.rocks/rapr/))
