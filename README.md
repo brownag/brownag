@@ -14,7 +14,6 @@ I maintain several R packages; several of which are available on CRAN (https://c
  - jNSMR ([GitHub](https://ncss-tech.github.io/jNSMR))
  - rapr ([GitHub](https://humus.rocks/rapr/))
  - NASIStools ([GitHub](https://humus.rocks/NASIStools/))
- - cvirrr ([GitHub](https://humus.rocks/cvirrr))
  
 - 📫 How to reach me: ...
   - andrew.g.brown@usda.gov (work)
