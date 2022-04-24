@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Most of my work centers around interoperability, development of R-based tools, National Cooperative Soil Survey databases and data sources, and spatial data analysis.
+My name is Andrew Brown. I am a soil scientist with an interest in open-source software.
+
+Most of my software development work centers around interoperability, R-based tools, National Cooperative Soil Survey databases and data sources, and spatial data analysis. I am fortunate to be able to do some of this work as part of my work as a soil scientist.
 
 I have a blog that I rarely add posts to these days: http://humus.rocks
 
