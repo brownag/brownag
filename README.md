@@ -8,9 +8,8 @@ Most of my software development work centers around interoperability, R-based to
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownag&hide=html,less,css,scss,TeX,javascript&layout=compact&theme=dark)
 
-I have a blog that I rarely add posts to these days: http://humus.rocks
-
-I maintain several R packages; several of which are available on CRAN (https://cran.r-project.org/) and the ncss-tech r-universe repository (https://ncss-tech.r-universe.dev/ui#packages)
+I maintain several R packages; several of which are available on CRAN (https://cran.r-project.org/) and the ncss-tech r-universe repository (https://ncss-tech.r-universe.dev/ui#packages). I also 
+have a blog that I rarely add posts to these days: http://humus.rocks
 
 ### R Packages  
  - soilDB ([CRAN](https://cran.r-project.org/package=soilDB)) ([GitHub](http://ncss-tech.github.io/soilDB/))
@@ -22,9 +21,11 @@ I maintain several R packages; several of which are available on CRAN (https://c
  - NASIStools ([GitHub](https://humus.rocks/NASIStools/))
  
 #### 📫 How to reach me: ...
-  - andrew.g.brown@usda.gov (work)
-  - brown.andrewg@gmail.com (personal)
-    
+  - [andrew.g.brown@usda.gov](mailto:andrew.g.brown@usda.gov) (work)
+  - [brown.andrewg@gmail.com](mailto:brown.andrewg@gmail.com) (personal)
+  - [@humus_rocks](https://twitter.com/humus_rocks) (Twitter)
+  - [Linkedin](https://www.linkedin.com/in/andrew-brown-31687b30/)
+
 <!--
 **brownag/brownag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
