@@ -2,6 +2,8 @@
 
 Most of my work centers around interoperability, development of R-based tools, National Cooperative Soil Survey databases and data sources, and spatial data analysis.
 
+I have a blog that I rarely add posts to these days: http://humus.rocks
+
 I maintain several R packages; several of which are available on CRAN (https://cran.r-project.org/) and the ncss-tech r-universe repository (https://ncss-tech.r-universe.dev/ui#packages)
 
 ### R Packages  
