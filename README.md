@@ -4,7 +4,7 @@ My name is Andrew Brown. I am a soil scientist with an interest in open-source s
 
 ![Brownag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brownag&show_icons=true&theme=dark)
 
-Most of my software development work centers around interoperability, R-based tools, National Cooperative Soil Survey data sources, and spatial data analysis. I am fortunate to be able to do some of this work as part of my work as a soil scientist.
+Most of my software development work centers around interoperability, R-based tools, National Cooperative Soil Survey data sources, and spatial data analysis. I am fortunate to be able to do some of this work as part of my job as a soil scientist.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownag&hide=html,less,css,scss,TeX,javascript&layout=compact&theme=dark)
 
