@@ -8,7 +8,7 @@ Most of my software development work centers around interoperability, R-based to
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownag&hide=html,less,css,scss,TeX,javascript&layout=compact&theme=dark)
 
-I maintain several R packages; several of which are available on CRAN (https://cran.r-project.org/) and the ncss-tech r-universe repository (https://ncss-tech.r-universe.dev/ui#packages). I also 
+I maintain a handful of R packages and contribute to several more; some of these are available on CRAN (https://cran.r-project.org/) and the ncss-tech r-universe repository (https://ncss-tech.r-universe.dev/ui#packages). I also 
 have a blog that I rarely add posts to these days: http://humus.rocks
 
 ### R Packages  
