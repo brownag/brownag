@@ -16,11 +16,14 @@ have a blog that I rarely add posts to these days: http://humus.rocks
  - SoilTaxonomy ([CRAN](https://cran.r-project.org/package=SoilTaxonomy)) ([GitHub](http://ncss-tech.github.io/SoilTaxonomy/))
  - whitebox ([CRAN](https://cran.r-project.org/package=whitebox)) ([GitHub](https://giswqs.github.io/whiteboxR/))
  - rosettaPTF ([GitHub](https://ncss-tech.github.io/rosettaPTF/))
- - rjts ([GitHub](https://humus.rocks/rjts/))
- - rjackcess ([GitHub](https://humus.rocks/rjackcess/))
  - jNSMR ([GitHub](https://ncss-tech.github.io/jNSMR))
- - rapr ([GitHub](https://humus.rocks/rapr/))
  - NASIStools ([GitHub](https://humus.rocks/NASIStools/))
+ 
+ - rjackcess ([GitHub](https://humus.rocks/rjackcess/))
+ - rgeedim ([GitHub](https://humus.rocks/rgeedim/))
+ - terragee ([GitHub](https://humus.rocks/terragee/))
+ - rjts ([GitHub](https://humus.rocks/rjts/))
+ - rapr ([GitHub](https://humus.rocks/rapr/))
  - gpkg ([GitHub](https://humus.rocks/gpkg/))
  
 #### 📫 How to reach me: ...
