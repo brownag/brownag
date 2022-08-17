@@ -17,8 +17,9 @@ have a blog that I rarely add posts to these days: http://humus.rocks
  - whitebox ([CRAN](https://cran.r-project.org/package=whitebox)) ([GitHub](https://giswqs.github.io/whiteboxR/))
  - rosettaPTF ([GitHub](https://ncss-tech.github.io/rosettaPTF/))
  - jNSMR ([GitHub](https://ncss-tech.github.io/jNSMR))
+ - OSDRegistry ([GitHub](https://github.com/ncss-tech/OSDRegistry))
+ - SoilKnowledgeBase ([GitHub](https://ncss-tech.github.io/SoilKnowledgeBase))
  - NASIStools ([GitHub](https://humus.rocks/NASIStools/))
- 
  - rjackcess ([GitHub](https://humus.rocks/rjackcess/))
  - rgeedim ([GitHub](https://humus.rocks/rgeedim/))
  - terragee ([GitHub](https://humus.rocks/terragee/))
