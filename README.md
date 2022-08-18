@@ -2,6 +2,14 @@
 
 My name is Andrew Brown. I am a soil scientist with an interest in open-source software.
 
+#### 📫 How to find me: ...
+  - [andrew.g.brown@usda.gov](mailto:andrew.g.brown@usda.gov) (work)
+  - [brown.andrewg@gmail.com](mailto:brown.andrewg@gmail.com) (personal)
+  - [0000-0002-4565-533X](https://orcid.org/0000-0002-4565-533X) (ORCID)
+  - [@humus_rocks](https://twitter.com/humus_rocks) (Twitter)
+  - [humus.rocks](https://humus.rocks/) (Website)
+  - [LinkedIn](https://www.linkedin.com/in/andrew-brown-31687b30/)
+
 ![Brownag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brownag&show_icons=true&theme=dark)
 
 Most of my software development work centers around interoperability, R-based tools, National Cooperative Soil Survey data sources, and spatial data analysis. I am fortunate to be able to do some of this work as part of my job as a soil scientist.
@@ -27,10 +35,3 @@ have a blog that I rarely add posts to these days: http://humus.rocks
  - rapr ([GitHub](https://humus.rocks/rapr/))
  - gpkg ([GitHub](https://humus.rocks/gpkg/))
  
-#### 📫 How to find me: ...
-  - [andrew.g.brown@usda.gov](mailto:andrew.g.brown@usda.gov) (work)
-  - [brown.andrewg@gmail.com](mailto:brown.andrewg@gmail.com) (personal)
-  - [0000-0002-4565-533X](https://orcid.org/0000-0002-4565-533X) (ORCID)
-  - [@humus_rocks](https://twitter.com/humus_rocks) (Twitter)
-  - [humus.rocks](https://humus.rocks/) (Website)
-  - [LinkedIn](https://www.linkedin.com/in/andrew-brown-31687b30/)
