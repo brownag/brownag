@@ -7,6 +7,7 @@ My name is Andrew Brown. I am a soil scientist with an interest in open-source s
   - [brown.andrewg@gmail.com](mailto:brown.andrewg@gmail.com) (personal)
   - [0000-0002-4565-533X](https://orcid.org/0000-0002-4565-533X) (ORCID)
   - [@humus_rocks](https://twitter.com/humus_rocks) (Twitter)
+  - [@humus_rocks@fosstodon.org](https://fosstodon.org/@humus_rocks) (Mastodon)
   - [humus.rocks](https://humus.rocks/) (Website)
   - [LinkedIn](https://www.linkedin.com/in/andrew-brown-31687b30/)
 
