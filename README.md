@@ -17,8 +17,7 @@ Most of my software development work centers around interoperability, R-based to
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownag&hide=html,less,css,scss,TeX,javascript&layout=compact&theme=dark)
 
-I maintain a handful of R packages and contribute to several more; some of these are available on CRAN (https://cran.r-project.org/) and the ncss-tech r-universe repository (https://ncss-tech.r-universe.dev/ui#packages). I also 
-have a blog that I rarely add posts to these days: http://humus.rocks
+I maintain a handful of R packages and contribute to several more; some of these are available on CRAN (https://cran.r-project.org/) and the ncss-tech r-universe repository (https://ncss-tech.r-universe.dev/ui#packages). I also have a blog that I rarely add posts to these days: http://humus.rocks
 
 ### R Packages  
  - soilDB ([CRAN](https://cran.r-project.org/package=soilDB)) ([GitHub](http://ncss-tech.github.io/soilDB/))
@@ -29,6 +28,7 @@ have a blog that I rarely add posts to these days: http://humus.rocks
  - jNSMR ([GitHub](https://ncss-tech.github.io/jNSMR))
  - OSDRegistry ([GitHub](https://github.com/ncss-tech/OSDRegistry))
  - SoilKnowledgeBase ([GitHub](https://ncss-tech.github.io/SoilKnowledgeBase))
+ - labtaxa ([GitHub](https://github.com/brownag/labtaxa)) ([DockerHub](https://hub.docker.com/r/brownag/labtaxa))
  - NASIStools ([GitHub](https://humus.rocks/NASIStools/))
  - rjackcess ([GitHub](https://humus.rocks/rjackcess/))
  - gpkg ([GitHub](https://humus.rocks/gpkg/))
