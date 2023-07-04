@@ -31,8 +31,9 @@ have a blog that I rarely add posts to these days: http://humus.rocks
  - SoilKnowledgeBase ([GitHub](https://ncss-tech.github.io/SoilKnowledgeBase))
  - NASIStools ([GitHub](https://humus.rocks/NASIStools/))
  - rjackcess ([GitHub](https://humus.rocks/rjackcess/))
+ - gpkg ([GitHub](https://humus.rocks/gpkg/))
+ - huckster ([GitHub](https://humus.rocks/huckster/))
  - terragee ([GitHub](https://humus.rocks/terragee/))
  - rjts ([GitHub](https://humus.rocks/rjts/))
  - rapr ([GitHub](https://humus.rocks/rapr/))
- - gpkg ([GitHub](https://humus.rocks/gpkg/))
  
