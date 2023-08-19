@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey now 👋
 
 My name is Andrew Brown. I am a soil scientist with an interest in open-source software.
 
