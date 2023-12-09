@@ -19,7 +19,7 @@ Most of my software development work centers around interoperability, R-based to
 
 I maintain a handful of R packages and contribute to several more; some of these are available on CRAN (https://cran.r-project.org/) and the [ncss-tech](https://ncss-tech.r-universe.dev/ui#packages) or [brownag](https://brownag.r-universe.dev/ui#packages) r-universe repositories. 
 
-I also have a blog that I rarely add posts to these days: http://humus.rocks
+I also have a blog that I rarely add posts to these days: http://humus.rocks/
 
 ### R Packages  
  - soilDB ([CRAN](https://cran.r-project.org/package=soilDB)) ([GitHub](http://ncss-tech.github.io/soilDB/))
@@ -34,11 +34,14 @@ I also have a blog that I rarely add posts to these days: http://humus.rocks
  - SoilKnowledgeBase ([GitHub](https://ncss-tech.github.io/SoilKnowledgeBase))
  - labtaxa ([GitHub](https://github.com/brownag/labtaxa)) ([DockerHub](https://hub.docker.com/r/brownag/labtaxa))
  - SSURGOPortalR ([GitHub](https://humus.rocks/SSURGOPortalR/))
+ - SoilProfileGraphs ([GitHub](https://humus.rocks/SoilProfileGraphs/))
+ - ggspc ([GitHub](https://humus.rocks/ggspc/))
  - NASIStools ([GitHub](https://humus.rocks/NASIStools/))
  - rjackcess ([GitHub](https://humus.rocks/rjackcess/))
  - huckster ([GitHub](https://humus.rocks/huckster/))
  - grundo ([GitHub](https://github.com/brownag/grundo/))
  - terragee ([GitHub](https://humus.rocks/terragee/))
  - rjts ([GitHub](https://humus.rocks/rjts/))
+ - rgeowheels ([GitHub](https://humus.rocks/rgeowheels/))
  - rapr ([GitHub](https://humus.rocks/rapr/))
  
