@@ -39,6 +39,7 @@ I also have a blog that I rarely add posts to these days: http://humus.rocks/
  - NASIStools ([GitHub](https://humus.rocks/NASIStools/))
  - rjackcess ([GitHub](https://humus.rocks/rjackcess/))
  - huckster ([GitHub](https://humus.rocks/huckster/))
+ - ROGRSQL ([GitHub](https://humus.rocks/ROGRSQL/))
  - grundo ([GitHub](https://github.com/brownag/grundo/))
  - terragee ([GitHub](https://humus.rocks/terragee/))
  - rjts ([GitHub](https://humus.rocks/rjts/))
