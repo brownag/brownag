@@ -34,6 +34,7 @@ I also have a blog that I rarely add posts to these days: http://humus.rocks/
  - SoilKnowledgeBase ([GitHub](https://ncss-tech.github.io/SoilKnowledgeBase))
  - labtaxa ([GitHub](https://github.com/brownag/labtaxa)) ([DockerHub](https://hub.docker.com/r/brownag/labtaxa))
  - SSURGOPortalR ([GitHub](https://humus.rocks/SSURGOPortalR/))
+ - SSURGOPortalR ([GitHub](https://humus.rocks/hydricsoils/))
  - SoilProfileGraphs ([GitHub](https://humus.rocks/SoilProfileGraphs/))
  - ggspc ([GitHub](https://humus.rocks/ggspc/))
  - NASIStools ([GitHub](https://humus.rocks/NASIStools/))
