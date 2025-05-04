@@ -15,7 +15,7 @@ My name is Andrew Brown. I am a soil scientist with an interest in open-source s
 
 Most of my software development work centers around interoperability, R-based tools, National Cooperative Soil Survey data sources, and spatial data analysis. I am fortunate to be able to do some of this work as part of my job as a soil scientist.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownag&hide=html,less,css,scss,TeX,javascript,cypher&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownag&hide=html,less,css,scss,TeX,cypher&layout=compact&theme=dark)
 
 I maintain a handful of R packages and contribute to several more; some of these are available on CRAN (https://cran.r-project.org/) and the [ncss-tech](https://ncss-tech.r-universe.dev/ui#packages) or [brownag](https://brownag.r-universe.dev/ui#packages) r-universe repositories. 
 
