@@ -28,6 +28,8 @@ I also have a blog that I rarely add posts to these days: http://humus.rocks/
  - rgeedim ([CRAN](https://cran.r-project.org/package=rgeedim)) ([GitHub](https://humus.rocks/rgeedim/))
  - gpkg ([CRAN](https://cran.r-project.org/package=gpkg))
 ([GitHub](https://humus.rocks/gpkg/))
+ - rapr ([CRAN](https://cran.r-project.org/package=rapr)) ([GitHub](https://humus.rocks/rapr/))
+ - rgeomorphon ([GitHub](https://humus.rocks/rgeomorphon/))
  - rosettaPTF ([GitHub](https://ncss-tech.github.io/rosettaPTF/))
  - jNSMR ([GitHub](https://ncss-tech.github.io/jNSMR))
  - OSDRegistry ([GitHub](https://github.com/ncss-tech/OSDRegistry))
@@ -45,5 +47,4 @@ I also have a blog that I rarely add posts to these days: http://humus.rocks/
  - terragee ([GitHub](https://humus.rocks/terragee/))
  - rjts ([GitHub](https://humus.rocks/rjts/))
  - rgeowheels ([GitHub](https://humus.rocks/rgeowheels/))
- - rapr ([GitHub](https://humus.rocks/rapr/))
  
