@@ -17,7 +17,7 @@ Most of my software development work centers around interoperability, R-based to
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownag&hide=html,less,css,scss,TeX,cypher&layout=compact&theme=dark)
 
-I maintain a handful of R packages and contribute to several more; some of these are available on CRAN (https://cran.r-project.org/) and the [ncss-tech](https://ncss-tech.r-universe.dev/ui#packages) or [brownag](https://brownag.r-universe.dev/ui#packages) r-universe repositories. 
+I maintain a handful of R and Python packages and contribute to several more; some of these are available on CRAN (https://cran.r-project.org/) and the [ncss-tech](https://ncss-tech.r-universe.dev/ui#packages) or [brownag](https://brownag.r-universe.dev/ui#packages) r-universe repositories. 
 
 I also have a blog that I rarely add posts to these days: http://humus.rocks/
 
@@ -48,4 +48,7 @@ I also have a blog that I rarely add posts to these days: http://humus.rocks/
  - terragee ([GitHub](https://humus.rocks/terragee/))
  - rjts ([GitHub](https://humus.rocks/rjts/))
  - rgeowheels ([GitHub](https://humus.rocks/rgeowheels/))
- 
+
+### Python Packages
+ - soildb ([PyPI](https://pypi.org/project/soildb)) ([Manual](https://py-soildb.readthedocs.io/)) ([GitHub](https://github.com/brownag/py-soildb))
+ - soilprofilecollection ([PyPI](https://pypi.org/project/soilprofilecollection)) ([Manual](https://soilprofilecollection.readthedocs.io/)) ([GitHub](https://github.com/brownag/soilprofilecollection))
