@@ -1,7 +1,9 @@
 ### Hey now 👋
 
 My name is Andrew Brown. I am a soil scientist with an interest in open-source software.
-
+<table>
+  <tr><td>
+    
 #### 📫 How to find me: ...
   - [andrew.g.brown@usda.gov](mailto:andrew.g.brown@usda.gov) (work)
   - [brown.andrewg@gmail.com](mailto:brown.andrewg@gmail.com) (personal)
@@ -10,8 +12,13 @@ My name is Andrew Brown. I am a soil scientist with an interest in open-source s
   - [@humus_rocks@fosstodon.org](https://fosstodon.org/@humus_rocks) (Mastodon)
   - [humus.rocks](https://humus.rocks/) (Website)
   - [LinkedIn](https://www.linkedin.com/in/andrew-brown-31687b30/)
-
-![Brownag's GitHub stats](https://brownag-github-readme-stats.vercel.app/api?username=brownag&show_icons=true&theme=dark)
+    
+  </td><td>
+    </br>
+    <img src="https://brownag-github-readme-stats.vercel.app/api?username=brownag&show_icons=true&theme=dark"/>
+    </br>
+  </td></tr>
+</table>
 
 Most of my software development work centers around interoperability, R-based tools, National Cooperative Soil Survey data sources, and spatial data analysis. I am fortunate to be able to do some of this work as part of my job as a soil scientist.
 
