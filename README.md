@@ -29,33 +29,68 @@ I maintain a handful of R and Python packages and contribute to several more; so
 I also have a blog that I rarely add posts to these days: http://humus.rocks/
 
 ### R Packages  
- - soilDB ([CRAN](https://cran.r-project.org/package=soilDB)) ([GitHub](http://ncss-tech.github.io/soilDB/))
- - SoilTaxonomy ([CRAN](https://cran.r-project.org/package=SoilTaxonomy)) ([GitHub](http://ncss-tech.github.io/SoilTaxonomy/))
- - whitebox ([CRAN](https://cran.r-project.org/package=whitebox)) ([GitHub](https://opengeos.github.io/whiteboxR/))
- - rgeedim ([CRAN](https://cran.r-project.org/package=rgeedim)) ([GitHub](https://humus.rocks/rgeedim/))
- - gpkg ([CRAN](https://cran.r-project.org/package=gpkg))
-([GitHub](https://humus.rocks/gpkg/))
- - rapr ([CRAN](https://cran.r-project.org/package=rapr)) ([GitHub](https://humus.rocks/rapr/))
- - rgeomorphon ([CRAN](https://cran.r-project.org/package=rgeomorphon)) ([GitHub](https://humus.rocks/rgeomorphon/))
- - rosettaPTF ([GitHub](https://ncss-tech.github.io/rosettaPTF/))
- - tarflowr ([GitHub](https://humus.rocks/tarflowr/))
- - jNSMR ([GitHub](https://ncss-tech.github.io/jNSMR))
- - OSDRegistry ([GitHub](https://github.com/ncss-tech/OSDRegistry))
- - SoilKnowledgeBase ([GitHub](https://ncss-tech.github.io/SoilKnowledgeBase))
- - labtaxa ([GitHub](https://github.com/brownag/labtaxa)) ([DockerHub](https://hub.docker.com/r/brownag/labtaxa))
- - SSURGOPortalR ([GitHub](https://humus.rocks/SSURGOPortalR/))
- - hydricsoils ([GitHub](https://humus.rocks/hydricsoils/))
- - SoilProfileGraphs ([GitHub](https://humus.rocks/SoilProfileGraphs/))
- - ggspc ([GitHub](https://humus.rocks/ggspc/))
- - NASIStools ([GitHub](https://humus.rocks/NASIStools/))
- - rjackcess ([GitHub](https://humus.rocks/rjackcess/))
- - huckster ([GitHub](https://humus.rocks/huckster/))
- - ROGRSQL ([GitHub](https://humus.rocks/ROGRSQL/))
- - grundo ([GitHub](https://github.com/brownag/grundo/))
- - terragee ([GitHub](https://humus.rocks/terragee/))
- - rjts ([GitHub](https://humus.rocks/rjts/))
- - rgeowheels ([GitHub](https://humus.rocks/rgeowheels/))
+
+#### National Cooperative Soil Survey (NCSS) Data & Databases
+- **soilDB** ([CRAN](https://cran.r-project.org/package=soilDB)) ([GitHub](http://ncss-tech.github.io/soilDB/)) - Access and query NCSS databases
+- **SoilTaxonomy** ([CRAN](https://cran.r-project.org/package=SoilTaxonomy)) ([GitHub](http://ncss-tech.github.io/SoilTaxonomy/)) - Taxonomic dictionaries and formative element parsing
+- **rosettaPTF** ([GitHub](https://ncss-tech.github.io/rosettaPTF/)) - Rosetta pedotransfer functions with Python rosetta-soil package in R
+- **InterpretationEngine** ([GitHub](https://ncss-tech.github.io/InterpretationEngine/)) - NASIS Soil Interpretations in R
+- **jNSMR** ([GitHub](https://ncss-tech.github.io/jNSMR)) - Interface to Java Newhall Simulation Model for R
+- **OSDRegistry** ([GitHub](https://github.com/ncss-tech/OSDRegistry)) - Official Series Description registry tools
+- **SoilKnowledgeBase** ([GitHub](https://ncss-tech.github.io/SoilKnowledgeBase)) - NCSS knowledge base resources
+- **labtaxa** ([GitHub](https://github.com/brownag/labtaxa)) ([DockerHub](https://hub.docker.com/r/brownag/labtaxa)) - KSSL Lab Data Mart analysis container
+- **soilDBdata** ([GitHub](https://github.com/brownag/soilDBdata)) - Data package for soilDB
+- **SSURGOPortalR** ([GitHub](https://humus.rocks/SSURGOPortalR/)) - Interface to SSURGO Portal tools
+- **SSURGO** ([GitHub](https://github.com/brownag/SSURGO)) - Build SSURGO databases with DuckDB and soilDB
+- **SSURGOsnapshots** ([GitHub](https://github.com/brownag/SSURGOsnapshots)) - SSURGO snapshot utilities
+- **hydricsoils** ([GitHub](https://humus.rocks/hydricsoils/)) - Field indicators of hydric soils
+- **NASIStools** ([GitHub](https://humus.rocks/NASIStools/)) - Tools for NASIS
+- **nasis** ([GitHub](https://github.com/brownag/nasis)) - NASIS data model abstraction layer
+- **cvirrr** ([GitHub](https://github.com/brownag/cvirrr)) - CVIR script evaluation outside NASIS
+- **rdshub** ([GitHub](https://github.com/brownag/rdshub)) - Dynamic Soils Hub tools and APIs
+- **KSTL** ([GitHub](https://github.com/brownag/KSTL)) - Keys to Soil Taxonomy API
+
+#### Soil Profile Analysis & Visualization
+- **SoilProfileGraphs** ([GitHub](https://humus.rocks/SoilProfileGraphs/)) - Calibrated soil pit photos and plots
+- **ggspc** ([GitHub](https://humus.rocks/ggspc/)) - ggplot2 extensions for SoilProfileCollection objects
+- **soilmotif** ([GitHub](https://github.com/brownag/soilmotif)) - Analyze, fit, and generalize soil depth functions
+- **SOILmilaR** ([GitHub](https://github.com/brownag/SOILmilaR)) - Apply 'Similar Soils' contrasts
+
+#### Geospatial & Remote Sensing
+- **whitebox** ([CRAN](https://cran.r-project.org/package=whitebox)) ([GitHub](https://opengeos.github.io/whiteboxR/)) - WhiteboxTools R frontend
+- **rgeedim** ([CRAN](https://cran.r-project.org/package=rgeedim)) ([GitHub](https://humus.rocks/rgeedim/)) - Google Earth Engine imagery download
+- **rgeomorphon** ([CRAN](https://cran.r-project.org/package=rgeomorphon)) ([GitHub](https://humus.rocks/rgeomorphon/)) - Terrain form classification
+- **gpkg** ([CRAN](https://cran.r-project.org/package=gpkg)) ([GitHub](https://humus.rocks/gpkg/)) - GeoPackage utilities
+- **geodensity** ([GitHub](https://github.com/brownag/geodensity)) - Geodesic kernel density estimation
+- **geocoda** ([GitHub](https://github.com/brownag/geocoda)) - Compositional data analysis for geospatial data
+- **terragee** ([GitHub](https://humus.rocks/terragee/)) - terra Google Earth Engine wrapper
+- **rsamgeo** ([GitHub](https://github.com/brownag/rsamgeo)) - Segment geospatial data with Segment Anything Model
+- **gdalcli** ([GitHub](https://github.com/brownag/gdalcli)) - R frontend for GDAL CLI
+- **ROGRSQL** ([GitHub](https://humus.rocks/ROGRSQL/)) - DBI Backend for GDAL OGRSQL dialect
+- **rjts** ([GitHub](https://humus.rocks/rjts/)) - Java Topology Suite (JTS) Interface
+- **rgeowheels** ([GitHub](https://humus.rocks/rgeowheels/)) - Download Geospatial Python Wheels with R
+
+#### Rangeland & Ecological Sites
+- **rapr** ([CRAN](https://cran.r-project.org/package=rapr)) ([GitHub](https://humus.rocks/rapr/)) - Rangeland Analysis Platform interface
+- **ESAT** ([GitHub](https://github.com/brownag/ESAT)) - Ecological Site Analytical Tools
+
+#### Hydrologic & Watershed Analysis
+- **huckster** ([GitHub](https://humus.rocks/huckster/)) - Hydrologic unit boundary tools
+- **acis** ([GitHub](https://github.com/brownag/acis)) - Applied Climate Information System interface
+
+#### Workflow & Pipeline Tools
+- **tarflowr** ([GitHub](https://humus.rocks/tarflowr/)) - High-level orchestration of targets pipelines
+
+#### Database Tools
+- **rjackcess** ([GitHub](https://humus.rocks/rjackcess/)) - R interface to MS Access using Jackcess
+- **LinkedDataTable** ([GitHub](https://github.com/brownag/LinkedDataTable)) - Linked data table utilities
+
+#### Experimental & Development
+- **grundo** ([GitHub](https://github.com/brownag/grundo/)) - A Unified Model Interface for Digital Soil Mapping
+- **soil-excursions** ([GitHub](https://github.com/brownag/soil-excursions)) - Miscellaneous soil analysis tools and experiments
+- **soilvctrs** ([GitHub](https://github.com/brownag/soilvctrs)) - Geometric and topologic operations on stratified environmental data
 
 ### Python Packages
  - soildb ([PyPI](https://pypi.org/project/soildb)) ([Manual](https://py-soildb.readthedocs.io/)) ([GitHub](https://github.com/brownag/py-soildb))
  - soilprofilecollection ([PyPI](https://pypi.org/project/soilprofilecollection)) ([Manual](https://soilprofilecollection.readthedocs.io/)) ([GitHub](https://github.com/brownag/soilprofilecollection))
+ - mpspline ([PyPI](https://pypi.org/project/mpspline)) ([Manual](https://mpspline.readthedocs.io/)) ([GitHub](https://github.com/brownag/mpspline))
