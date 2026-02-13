@@ -155,6 +155,6 @@ I also have a blog that I rarely add posts to these days: http://humus.rocks/
 |---------|------|-------------|
 | **[soildb](https://github.com/brownag/py-soildb)** | [![PyPI](https://img.shields.io/pypi/v/soildb)](https://pypi.org/project/soildb) · [📖 Manual](https://py-soildb.readthedocs.io/) | Python port of soilDB for accessing NCSS databases |
 | **[soilprofilecollection](https://github.com/brownag/soilprofilecollection)** | [![PyPI](https://img.shields.io/pypi/v/soilprofilecollection)](https://pypi.org/project/soilprofilecollection) · [📖 Manual](https://soilprofilecollection.readthedocs.io/) | Python implementation of SoilProfileCollection |
-| **[mpspline](https://github.com/brownag/mpspline)** | [![PyPI](https://img.shields.io/pypi/v/mpspline)](https://pypi.org/project/mpspline) · [📖 Manual](https://mpspline.readthedocs.io/) | Mass-preserving spline functions for soil data |
+| **[mpspline](https://github.com/brownag/py-mpspline)** | [![PyPI](https://img.shields.io/pypi/v/mpspline)](https://pypi.org/project/mpspline) · [📖 Manual](https://py-mpspline.readthedocs.io/) | Mass-preserving spline functions for soil data |
 
 </details>
