@@ -38,7 +38,7 @@ I also have a blog that I rarely add posts to these days: http://humus.rocks/
 | **[soilDB](http://ncss-tech.github.io/soilDB/)** | [![CRAN](https://www.r-pkg.org/badges/version/soilDB)](https://cran.r-project.org/package=soilDB) | Access and query NCSS databases |
 | **[SoilTaxonomy](http://ncss-tech.github.io/SoilTaxonomy/)** | [![CRAN](https://www.r-pkg.org/badges/version/SoilTaxonomy)](https://cran.r-project.org/package=SoilTaxonomy) | Taxonomic dictionaries and formative element parsing |
 | **[rosettaPTF](https://ncss-tech.github.io/rosettaPTF/)** | | Rosetta pedotransfer functions with Python rosetta-soil package in R |
-| **[InterpretationEngine](https://ncss-tech.github.io/InterpretationEngine/)** | | NASIS Soil Interpretations in R |
+| **[InterpretationEngine](https://ncss-tech.github.io/interpretation-engine/)** | | NASIS Soil Interpretations in R |
 | **[jNSMR](https://ncss-tech.github.io/jNSMR)** | | Interface to Java Newhall Simulation Model for R |
 | **[OSDRegistry](https://github.com/ncss-tech/OSDRegistry)** | | Official Series Description registry tools |
 | **[SoilKnowledgeBase](https://ncss-tech.github.io/SoilKnowledgeBase)** | | NCSS knowledge base resources |
