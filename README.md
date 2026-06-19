@@ -118,7 +118,7 @@ I also have a blog that I rarely add posts to these days: http://humus.rocks/
 
 | Package | CRAN | Description |
 |---------|------|-------------|
-| **[geotargets](https://ropensci.github.io/geotargets/)** | | Targets extensions for geospatial data |
+| **[geotargets](https://ropensci.github.io/geotargets/)** | [![CRAN](https://www.r-pkg.org/badges/version/geotargets)](https://cran.r-project.org/package=geotargets) | Targets extensions for geospatial data |
 | **[tarflowr](https://humus.rocks/tarflowr/)** | | High-level orchestration of targets pipelines |
 
 </details>
