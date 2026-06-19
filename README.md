@@ -118,6 +118,7 @@ I also have a blog that I rarely add posts to these days: http://humus.rocks/
 
 | Package | CRAN | Description |
 |---------|------|-------------|
+| **[geotargets](https://ropensci.github.io/geotargets/)** | | Targets extensions for geospatial data |
 | **[tarflowr](https://humus.rocks/tarflowr/)** | | High-level orchestration of targets pipelines |
 
 </details>
@@ -139,6 +140,7 @@ I also have a blog that I rarely add posts to these days: http://humus.rocks/
 
 | Package | CRAN | Description |
 |---------|------|-------------|
+| **[zigdist](https://github.com/brownag/zigdist/)** | | High-performance distance metric calculations in R using Zig |
 | **[grundo](https://github.com/brownag/grundo/)** | | A Unified Model Interface for Digital Soil Mapping |
 | **[soil-excursions](https://github.com/brownag/soil-excursions)** | | Miscellaneous soil analysis tools and experiments |
 | **[soilvctrs](https://github.com/brownag/soilvctrs)** | | Geometric and topologic operations on stratified environmental data |
